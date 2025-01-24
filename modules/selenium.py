@@ -1,4 +1,4 @@
-import selenium
+pip install selenium
 
 def get_selenium_version():
     try:
